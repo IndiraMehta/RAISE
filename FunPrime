@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FunPrime</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="Colorful Prime Logo">
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#movies">Movies</a></li>
+        <li><a href="#tv-shows">TV Shows</a></li>
+        <li><a href="#originals">Originals</a></li>
+        <li><a href="#kids">Kids</a></li>
+        <li><a href="#watchlist">Watchlist</a></li>
+      </ul>
+    </nav>
+    <div class="cta">
+      <a href="#signup" class="btn">Sign Up</a>
+      <a href="#login" class="btn">Login</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="home-section">
+      <h1>Stream thousands of movies, TV shows, and more.</h1>
+      <p>Join Colorful Prime to watch exclusive Amazon Originals, popular movies, and TV shows.</p>
+      <a href="#signup" class="btn">Start your free trial</a>
+    </section>
+
+    <!-- Other sections like Movies, TV Shows, Originals, Kids, Watchlist can be added here -->
+  </main>
+
+  <footer>
+    <div class="footer-logo">
+      <img src="logo.png" alt="Colorful Prime Logo">
+    </div>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="#">Terms of Use</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Help</a></li>
+      </ul>
+    </div>
+    <div class="social-icons">
+      <a href="#"><img src="facebook.png" alt="Facebook"></a>
+      <a href="#"><img src="twitter.png" alt="Twitter"></a>
+      <a href="#"><img src="instagram.png" alt="Instagram"></a>
+    </div>
+    <p>&copy; 2024 Colorful Prime</p>
+  </footer>
+</body>
+</html>
