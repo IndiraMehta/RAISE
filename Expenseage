@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Manage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Money Management</h1>
+        <nav>
+            <ul>
+                <li><a href="#budget">Look on the Budget</a></li>
+                <li><a href="#expenses">Expense Recording</a></li>
+                <li><a href="#tips">Tips and Peeks for Finance</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="budget">
+        <h2>Look on the Budget</h2>
+      <p>Make Bite-Size Money Goals.</p>
+      <p>Investing is risky ,read the documents carefully.</p>
+        <p>Track your income and expenses to create a budget plan.</p>
+        <!-- Add budget tracking form or table here -->
+    </section>
+
+    <section id="expenses">
+        <h2>Expense Recording</h2>
+      <p> Create a Financial Calendar.</p>
+      <p> Draft a Financial Vision Board.</p>
+        <p>Record your daily expenses to keep track of where your money goes.</p>
+        <!-- Add expense recording form or table here -->
+    </section>
+
+    <section id="tips">
+        <h2>Tips and Peeks for Finance</h2>
+        <p>Learn useful tips and tricks for better money management.</p>
+      
+        <!-- Add financial tips content here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Money Management</p>
+    </footer>
+</body>
+
+</html>
